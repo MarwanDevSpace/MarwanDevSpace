@@ -74,33 +74,6 @@ I design sophisticated prompts and frameworks that maximize AI performance acros
 
 ---
 
-## 📊 GitHub Analytics | إحصائيات GitHub
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwandevspace&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/marwandevspace)
-
-</td>
-<td width="50%">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwandevspace&layout=compact&theme=tokyonight)](https://github.com/marwandevspace)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwandevspace&theme=tokyonight)](https://github.com/marwandevspace)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marwandevspace&theme=tokyo-night)](https://github.com/marwandevspace)
-
-</div>
-
----
-
 ## 🎯 Current Focus | التركيز الحالي
 
 <div align="center">
