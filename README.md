@@ -14,12 +14,6 @@
 
 ## 👨‍💻 About Me | نبذة عني
 
-<img align="right" alt="AI Engineering" width="250" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png"> 
-
-<table>
-<tr>
-<td width="50%">
-
 ### English
 
 🔹 **AI Prompt Engineer** passionate about bridging the gap between advanced AI technology and the Arabic language  
