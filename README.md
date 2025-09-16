@@ -215,18 +215,26 @@ mindmap
 
 ### 📬 Professional | مهني
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/%20Email-marwan.a.discord@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwan.a.discord@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-Marwan.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwandevspace.github.io/Marwan.dev/)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-marwan.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwandevspace.github.io/Marwan.dev/)
+
+</div>
 
 </td>
 <td width="50%" align="center">
 
-### 🌟 Social | وسائل التواصل
+### 🌟 General | عام
 
-[![Instagram](https://img.shields.io/badge/%20Instagram-@marwan.ai.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.os/)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/%20Instagram-@mo.os-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.os/)
 
 [![Telegram](https://img.shields.io/badge/%20Telegram-@MarwanAIDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarwanAIDev)
+
+</div>
 
 </td>
 </tr>
