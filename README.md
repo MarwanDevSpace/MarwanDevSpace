@@ -39,8 +39,8 @@
 <table align="center" border="0" cellpadding="14" cellspacing="0">
   <tr>
     <td align="center" width="33%">
-      <a href="./mcp-arabic-ms-word"><img src="./assets/card_word.png" alt="mcp-arabic-ms-word" width="280"/></a>
-      <h3 align="center"><a href="./mcp-arabic-ms-word">mcp-arabic-ms-word</a></h3>
+      <a href="https://github.com/MarwanDevSpace/mcp-arabic-ms-word"><img src="./assets/logo_word.png" alt="mcp-arabic-ms-word" width="150"/></a>
+      <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-arabic-ms-word">mcp-arabic-ms-word</a></h3>
       <p align="center"><sub>MCP Server · Arabic Word Automation</sub></p>
       <p align="center">
         <a href="https://www.npmjs.com/package/mcp-arabic-ms-word"><img src="https://img.shields.io/badge/npm-1.2.1-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
@@ -49,8 +49,8 @@
       </p>
     </td>
     <td align="center" width="33%">
-      <a href="./mcp-flutter-apk-injector"><img src="./assets/card_apk.png" alt="mcp-flutter-apk-injector" width="280"/></a>
-      <h3 align="center"><a href="./mcp-flutter-apk-injector">mcp-flutter-apk-injector</a></h3>
+      <a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector"><img src="./assets/logo_apk.png" alt="mcp-flutter-apk-injector" width="150"/></a>
+      <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector">mcp-flutter-apk-injector</a></h3>
       <p align="center"><sub>MCP Server · APK Reverse Engineering</sub></p>
       <p align="center">
         <a href="https://www.npmjs.com/package/mcp-flutter-apk-injector"><img src="https://img.shields.io/badge/npm-0.6.1-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
@@ -59,8 +59,8 @@
       </p>
     </td>
     <td align="center" width="33%">
-      <a href="./Aqeeda"><img src="./assets/card_aqeeda.png" alt="Aqeeda+" width="280"/></a>
-      <h3 align="center"><a href="./Aqeeda">Aqeeda+</a></h3>
+      <a href="https://github.com/MarwanDevSpace/Aqeeda"><img src="./assets/logo_aqeeda.png" alt="Aqeeda+" width="150"/></a>
+      <h3 align="center"><a href="https://github.com/MarwanDevSpace/Aqeeda">Aqeeda+</a></h3>
       <p align="center"><sub>Flutter App · Islamic Education</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20With%20Curl.png" width="22"/> [mcp-arabic-ms-word](./mcp-arabic-ms-word) — Arabic-first Word Automation
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20With%20Curl.png" width="22"/> [mcp-arabic-ms-word](https://github.com/MarwanDevSpace/mcp-arabic-ms-word) — Arabic-first Word Automation
 
 A **Model Context Protocol** server that lets AI agents author, inspect, and repair Microsoft Word documents with **full Arabic and RTL support**. Thirteen specialized tools handle docx decompression, internal XML surgery, Arabic text reformatting (shaping, digit normalization, Alef/Ya standardization), and template injection. Published on [npm](https://www.npmjs.com/package/mcp-arabic-ms-word) and registered in the Glama MCP registry, targeting Tier-A documentation standards.
 
@@ -79,7 +79,7 @@ A **Model Context Protocol** server that lets AI agents author, inspect, and rep
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22"/> [mcp-flutter-apk-injector](./mcp-flutter-apk-injector) — Android Binary Analysis for AI Agents
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22"/> [mcp-flutter-apk-injector](https://github.com/MarwanDevSpace/mcp-flutter-apk-injector) — Android Binary Analysis for AI Agents
 
 An enterprise-grade MCP server for **automated APK reverse engineering**: Dalvik/ART bytecode analysis, Smali refactoring, native JNI tracing, and Flutter runtime injection. Powered by the **Hermes+ memory engine** with persistent session telemetry, searchable patch history, and zero-argument prompt resilience. Built with TypeScript, Vitest, ESLint, and semantic release cycles — registered on [npm](https://www.npmjs.com/package/mcp-flutter-apk-injector).
 
@@ -87,7 +87,7 @@ An enterprise-grade MCP server for **automated APK reverse engineering**: Dalvik
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Books.png" width="22"/> [Aqeeda+](./Aqeeda) — Islamic Studies Platform
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Books.png" width="22"/> [Aqeeda+](https://github.com/MarwanDevSpace/Aqeeda) — Islamic Studies Platform
 
 A **Flutter + Firebase** mobile platform for university students of **Islamic Theology and Thought**. Features an academic feed, the Holy Quran, an FM radio module with **117 stations**, video lessons, a Hijri calendar, and push notifications — serving an academic community beyond the repository.
 
