@@ -49,7 +49,7 @@
       </p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/MarwanDevSpace/Aqeeda"><img src="./assets/logo_aqeeda.png" alt="Aqeeda+" width="140"/></a>
+      <a href="https://github.com/MarwanDevSpace/Aqeeda"><img src="./assets/icon_aqeeda.png" alt="Aqeeda+" width="140"/></a>
       <h3 align="center"><a href="https://github.com/MarwanDevSpace/Aqeeda">Aqeeda+</a></h3>
       <p align="center"><sub>Flutter App · Islamic Education</sub></p>
       <p align="center">
