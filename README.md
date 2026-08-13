@@ -39,7 +39,7 @@
 <table align="center" border="0" cellpadding="14" cellspacing="0">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/MarwanDevSpace/mcp-arabic-ms-word"><img src="./assets/logo_word.png" alt="mcp-arabic-ms-word" width="150"/></a>
+      <a href="https://github.com/MarwanDevSpace/mcp-arabic-ms-word"><img src="./assets/logo_word.png" alt="mcp-arabic-ms-word" width="140"/></a>
       <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-arabic-ms-word">mcp-arabic-ms-word</a></h3>
       <p align="center"><sub>MCP Server · Arabic Word Automation</sub></p>
       <p align="center">
@@ -49,22 +49,22 @@
       </p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector"><img src="./assets/logo_apk.png" alt="mcp-flutter-apk-injector" width="150"/></a>
-      <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector">mcp-flutter-apk-injector</a></h3>
-      <p align="center"><sub>MCP Server · APK Reverse Engineering</sub></p>
-      <p align="center">
-        <a href="https://www.npmjs.com/package/mcp-flutter-apk-injector"><img src="https://img.shields.io/badge/npm-0.6.1-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
-        <img src="https://img.shields.io/badge/TypeScript-MIT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
-        <img src="https://img.shields.io/badge/Android-6DD55E?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/MarwanDevSpace/Aqeeda"><img src="./assets/logo_aqeeda.png" alt="Aqeeda+" width="150"/></a>
+      <a href="https://github.com/MarwanDevSpace/Aqeeda"><img src="./assets/logo_aqeeda.png" alt="Aqeeda+" width="140"/></a>
       <h3 align="center"><a href="https://github.com/MarwanDevSpace/Aqeeda">Aqeeda+</a></h3>
       <p align="center"><sub>Flutter App · Islamic Education</sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/Android-6DD55E?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector"><img src="./assets/logo_apk.png" alt="mcp-flutter-apk-injector" width="140"/></a>
+      <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector">mcp-flutter-apk-injector</a></h3>
+      <p align="center"><sub>MCP Server · APK Reverse Engineering</sub></p>
+      <p align="center">
+        <a href="https://www.npmjs.com/package/mcp-flutter-apk-injector"><img src="https://img.shields.io/badge/npm-0.6.1-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
+        <img src="https://img.shields.io/badge/TypeScript-MIT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
         <img src="https://img.shields.io/badge/Android-6DD55E?style=flat-square&logo=android&logoColor=white" alt="Android"/>
       </p>
     </td>
@@ -87,9 +87,9 @@ An enterprise-grade MCP server for **automated APK reverse engineering**: Dalvik
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Books.png" width="22"/> [Aqeeda+](https://github.com/MarwanDevSpace/Aqeeda) — Islamic Studies Platform
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Books.png" width="22"/> [Aqeeda+](https://github.com/MarwanDevSpace/Aqeeda) — Islamic Curriculum Tier
 
-A **Flutter + Firebase** mobile platform for university students of **Islamic Theology and Thought**. Features an academic feed, the Holy Quran, an FM radio module with **117 stations**, video lessons, a Hijri calendar, and push notifications — serving an academic community beyond the repository.
+A **Flutter + Firebase** mobile platform serving as the **curriculum Tier** for university students of **Islamic Theology and Thought**. Features an academic feed, the Holy Quran, an FM radio module with **117 stations**, video lessons, a Hijri calendar, and push notifications — serving an academic community beyond the repository.
 
 منصة تعليمية بهاتف Flutter وFirebase لطلاب **قسم العقيدة والفكر الإسلامي**: feed أكاديمي، قرآن كريم، راديو FM بـ117 محطة، دروس مرئية، تقويم هجري، وإشعارات فورية.
 
