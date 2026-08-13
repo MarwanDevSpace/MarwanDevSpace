@@ -1,267 +1,109 @@
-# Hi there! I'm Marwan Abdalhafedh 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=AI+Prompt+Engineer+%7C+مهندس+موجهات+الذكاء+الاصطناعي;Specialized+in+Arabic+Language+AI;Building+the+Future+of+Multilingual+AI)](https://git.io/typing-svg)
+# Marwan Abdalhafedh
 
-![Profile Views](https://komarev.com/ghpvc/?username=marwandevspace&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/marwandevspace?label=Followers&style=social)](https://github.com/marwandevspace)
-[![GitHub stars](https://img.shields.io/github/stars/marwandevspace?label=Stars&style=social)](https://github.com/marwandevspace)
+**AI Prompt Engineer · Arabic AI Systems · TypeScript & MCP**
+
+[العربية](#arabic)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | نبذة عني
+I design and ship software that lets AI speak Arabic natively. My work sits at the intersection of **prompt engineering**, **Arabic language processing**, and **protocol-driven tooling** — turning models into reliable, production-grade systems for real-world workflows. Currently building and publishing open-source MCP servers on npm, with a focus on Arabic document automation, Android binary tooling, and educational technology.
 
-### English
-
-🔹 **AI Prompt Engineer** passionate about bridging the gap between advanced AI technology and the Arabic language  
-🔹 **Location:** 📍 Iraq 🇮🇶  
-🔹 **Focus:** AI/ML, NLP, Prompt Engineering, Arabic Language Processing  
-🔹 **Experience:** 1+ years in AI prompt optimization and language modeling  
-🔹 **Languages:** Arabic, English  
-
-</td>
-<td width="50%">
-
-### العربية
-
-🔹 **مهندس موجهات ذكاء اصطناعي** متحمس لربط التقنيات المتقدمة باللغة العربية  
-🔹 **الموقع:** 📍 العراق 🇮🇶  
-🔹 **التخصص:** الذكاء الاصطناعي، معالجة اللغات الطبيعية، هندسة الموجهات العربية  
-🔹 **الخبرة:** أكثر من سنة في تحسين موجهات الذكاء الاصطناعي ونمذجة اللغة  
-🔹 **اللغات:** العربية، الإنجليزية  
-
-</td>
-</tr>
-</table>
+أعمل في تصميم وبناء أنظمة تتيح للذكاء الاصطناعي التحدث بالعربية بطلاقة. يتركز عملي على **هندسة الموجهات**، **معالجة اللغة العربية**، و**أدوات تعمل عبر البروتوكولات** — لتحويل النماذج إلى أنظمة إنتاجية موثوقة تُستخدم في سير عمل حقيقي. أنشر حاليًا خوادم MCP مفتوحة المصدر على npm، مع تركيز على أتمتة المستندات العربية، وأدوات تحليل تطبيقات أندرويد، وتقنيات التعليم.
 
 ---
 
-## 🎯 Mission & Vision | المهمة والرؤية
+## Selected Work
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### Mission
-> **"Elevate AI interactions through the power and elegance of the Arabic language"**
+| | | |
+|:--:|:--:|:--:|
+| <a href="./mcp-arabic-ms-word"><b>mcp-arabic-ms-word</b><br/><sub>MCP Server · Arabic Word Automation</sub></a> | <a href="./mcp-flutter-apk-injector"><b>mcp-flutter-apk-injector</b><br/><sub>MCP Server · APK Reverse Engineering</sub></a> | <a href="./Aqeeda"><b>Aqeeda+</b><br/><sub>Flutter App · Islamic Education</sub></a> |
 
-I design sophisticated prompts and frameworks that maximize AI performance across text, image, and video generation models. My mission is to:
+</div>
 
-- 🎯 Produce precise, reliable, and culturally resonant AI outputs
-- 🌍 Bridge the gap between Arabic culture and modern AI technology  
-- 📚 Democratize AI prompt engineering knowledge in Arabic
-- 🚀 Push the boundaries of multilingual AI capabilities
+### mcp-arabic-ms-word — Arabic-first Word Automation
 
-</td>
-<td width="50%">
+[View project](./mcp-arabic-ms-word) · [npm](https://www.npmjs.com/package/mcp-arabic-ms-word)
 
-### الرؤية
-> **"الارتقاء بالتفاعل مع الذكاء الاصطناعي من خلال قوة وأناقة اللغة العربية"**
+A Model Context Protocol server that lets AI agents author, inspect, and repair Microsoft Word documents with **full Arabic and RTL support**. Thirteen specialized tools handle docx decompression, internal XML surgery, Arabic text reformatting (shaping, digit normalization, Alef/Ya standardization), and template injection. Published on npm and registered in the Glama MCP registry, targeting Tier-A documentation standards.
 
-أصمم موجهات وأطر عمل متطورة تعظم أداء نماذج الذكاء الاصطناعي. رسالتي هي:
+خادم MCP يمكّن وكلاء الذكاء الاصطناعي من إنشاء وفحص وإصلاح مستندات Word **بدعم كامل للعربية واتجاه RTL**. ثلاثة عشر أداة متخصصة: فك ضغط docx، الجراحة على XML الداخلي، إصلاح النصوص العربية (التشكيل، توحيد الأرقام، ألف/ياء)، وحقن القوالب. منشور على npm ومسجل في سجل Glama الرسمي.
 
-- 🎯 إنتاج مخرجات دقيقة وموثوقة وذات صدى ثقافي
-- 🌍 ربط الثقافة العربية بتقنيات الذكاء الاصطناعي الحديثة
-- 📚 نشر المعرفة في هندسة الموجهات باللغة العربية  
-- 🚀 دفع حدود قدرات الذكاء الاصطناعي متعدد اللغات
+### mcp-flutter-apk-injector — Android Binary Analysis for AI Agents
 
-</td>
-</tr>
-</table>
+[View project](./mcp-flutter-apk-injector) · [npm](https://www.npmjs.com/package/mcp-flutter-apk-injector)
+
+An enterprise-grade MCP server for **automated APK reverse engineering**: Dalvik/ART bytecode analysis, Smali refactoring, native JNI tracing, and Flutter runtime injection. Powered by a session-aware memory engine (Hermes+) with persistent telemetry, searchable patch history, and zero-argument prompt resilience. Built with TypeScript, Vitest, ESLint, and semantic release cycles.
+
+خادم MCP بمستوى احترافي لأتمتة **الهندسة العكسية لتطبيقات أندرويد**: تحليل Dalvik/ART، إعادة هيكلة Smali، تتبع JNI، وحقن Flutter Runtime. مدعوم بمحرك ذاكرة (Hermes+) مع تيلمترية جلسات وسجل تصحيحات قابل للبحث. مبني بـ TypeScript مع اختبارات Vitest وESLint ودورات إصدار معنونة دلاليًا.
+
+### Aqeeda+ — Islamic Studies Platform
+
+[View project](./Aqeeda)
+
+A Flutter and Firebase mobile platform for university students of **Islamic Theology and Thought**. Includes an academic feed, the Holy Quran, an FM radio module with 117 stations, video lessons, a Hijri calendar, and push notifications. Distributed as an APK build, serving an academic community beyond the repository.
+
+منصة تعليمية بهاتف Flutter وFirebase لطلاب **قسم العقيدة والفكر الإسلامي**. تتضمن feed أكاديميًا، قرآن كريم، راديو FM بـ117 محطة، دروسًا مرئية، تقويمًا هجريًا، وإشعارات فورية. تخدم مجتمعًا أكاديميًا خارج المستودع.
 
 ---
 
-## 🎯 Current Focus | التركيز الحالي
+## Expertise
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[🔮 تطوير أوامر الذكاء الاصطناعي العربية<br/>Arabic AI Prompt Development] --> B[📚 معالجة اللغة العربية<br/>Arabic NLP Processing]
-    A --> C[🎯 تحسين الاستجابات<br/>Response Optimization]
-    B --> D[🤖 نماذج الذكاء الاصطناعي<br/>AI Model Integration]
-    C --> D
-    D --> E[🌍 التأثير المجتمعي العربي<br/>Arabic Community Impact]
-    
-    style A fill:#FF6B6B,stroke:#333,stroke-width:3px
-    style E fill:#4ECDC4,stroke:#333,stroke-width:2px
-```
-
-</div>
-
-### 🔥 What I'm Working On | ما أعمل عليه حالياً
-
-<table>
-<tr>
-<td width="50%">
-
-**Current Projects:**
-
-* 🔬 **Advanced Arabic Prompting**: Developing sophisticated prompt templates for Arabic AI models
-* 📊 **Performance Metrics**: Creating evaluation frameworks for Arabic AI responses
-* 🛠️ **Open Source Tools**: Building free prompt engineering libraries for Arabic developers
-* 📚 **Educational Content**: Producing comprehensive Arabic AI learning materials
-* 🌐 **Community Building**: Establishing Arabic AI engineering communities
-
-</td>
-<td width="50%">
-
-**المشاريع الحالية:**
-
-* 🔬 **هندسة الموجهات العربية المتقدمة**: تطوير قوالب موجهات متطورة للذكاء الاصطناعي العربي
-* 📊 **مقاييس الأداء**: إنشاء أطر تقييم لاستجابات الذكاء الاصطناعي العربية
-* 🛠️ **أدوات مفتوحة المصدر**: بناء مكتبات مجانية لهندسة الموجهات للمطورين العرب
-* 📚 **المحتوى التعليمي**: إنتاج مواد تعليمية شاملة للذكاء الاصطناعي العربي
-* 🌐 **بناء المجتمع**: تأسيس مجتمعات هندسة الذكاء الاصطناعي العربي
-
-</td>
-</tr>
-</table>
+| Domain | Practice |
+|---|---|
+| **Prompt Engineering** | Agent system prompts (Claude, Gemini, Codex), MCP tool annotation, evaluation-driven prompt design |
+| **Arabic NLP** | RTL text processing, Arabic shaping and normalization, docx XML manipulation |
+| **TypeScript / Node.js** | MCP servers, npm publishing, testing (Vitest), linting (ESLint) |
+| **Mobile & App Dev** | Flutter, Firebase, OneSignal, offline-first media modules |
+| **Open Source** | MIT-licensed releases, Glama registry listings, bilingual documentation |
 
 ---
 
-## 🔬 Arabic AI Research Areas | مجالات البحث في الذكاء الاصطناعي العربي
+## Contact
+
+| | |
+|---|---|
+| Email | [marwan.a.discord@gmail.com](mailto:marwan.a.discord@gmail.com) |
+| Website | [marwandevspace.github.io/Marwan.dev](https://marwandevspace.github.io/Marwan.dev/) |
+| Telegram | [@MarwanAIDev](https://t.me/MarwanAIDev) |
+| Instagram | [@mo.os](https://www.instagram.com/mo.os/) |
+| Location | Iraq |
 
 <div align="center">
 
-### 📊 Research Map | خريطة البحث
-
-```mermaid
-mindmap
-  root((🧠 الذكاء الاصطناعي العربي<br/>Arabic AI))
-    🔤 معالجة اللغة
-      📝 تحليل النصوص العربية
-      🎭 فهم السياق الثقافي
-      📚 المعاجم والمرادفات
-    🎯 هندسة الموجهات
-      ⚡ تحسين الاستجابات
-      🔧 تخصيص القوالب
-      📊 قياس الفعالية
-    🌍 التطبيقات العملية
-      💼 الحلول التجارية
-      🎓 المحتوى التعليمي
-      🎨 الإبداع والفنون
-    🚀 البحث والتطوير
-      🔬 الخوارزميات الجديدة
-      📈 تحليل الأداء
-      🌐 التكامل متعدد اللغات
-```
-
-</div>
-
-### 📋 Expertise Areas | مجالات التخصص
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🔤 اللغويات الحاسوبية**<br/>
-*Computational Linguistics*
-
-* قواعد النحو العربي
-* الصرف والاشتقاق
-* التراكيب اللغوية
-
-</td>
-<td width="25%" align="center">
-
-**🎭 السياق الثقافي**<br/>
-*Cultural Context*
-
-* التراث العربي
-* القيم الاجتماعية
-* الأدب والشعر
-
-</td>
-<td width="25%" align="center">
-
-**⚡ تحسين الأداء**<br/>
-*Performance Optimization*
-
-* سرعة الاستجابة
-* دقة المخرجات
-* كفاءة الموارد
-
-</td>
-<td width="25%" align="center">
-
-**🌐 التطبيقات العملية**<br/>
-*Practical Applications*
-
-* المساعدات الذكية
-* الترجمة الآلية
-* توليد المحتوى
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔗 Connect With Me | تواصل معي
-
-<div align="center">
-
-### 🌐 Let's Build the Future of Arabic AI Together | لنبني مستقبل الذكاء الاصطناعي العربي معاً
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" width="100" alt="Connect"/> 
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📬 Professional | مهني
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/%20Email-marwan.a.discord@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwan.a.discord@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/%20Website-marwan.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marwandevspace.github.io/Marwan.dev/)
-
-</div>
-
-</td>
-<td width="50%" align="center">
-
-### 🌟 General | عام
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/%20Instagram-@mo.os-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.os/)
-
-[![Telegram](https://img.shields.io/badge/%20Telegram-@MarwanAIDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarwanAIDev)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🤝 Let's Collaborate | لنتعاون
-
-> **"Every great achievement begins with a conversation"**  
-> **"كل إنجاز عظيم يبدأ بمحادثة"**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" width="50" alt="Waving Hand"/>
-
-**Looking forward to hearing from you! | أتطلع للتواصل معكم!**
-</div>
+<sub>Licensed under MIT. Bilingual by design — this profile is written in English and Arabic.</sub>
 
 </div>
 
 ---
 
-<div align="center">
+<a id="arabic"></a>
+<div dir="rtl" align="right">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/MarwanDevSpace/Marwan.dev/blob/main/LICENSE)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=for-the-badge)](https://github.com/MarwanDevSpace/Marwan.dev/blob/main/LICENSE_EN.md)
+## نبذة
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer"/>
+مهندس موجهات ذكاء اصطناعي متخصص في بناء أنظمة تتيح للذكاء الاصطناعي التعامل مع اللغة العربية بدقة عالية. أجمع بين هندسة الموجهات، ومعالجة اللغة العربية، وبناء أدوات إنتاجية عبر بروتوكول MCP.
+
+### المشاريع المختارة
+
+| | | |
+|:--:|:--:|:--:|
+| <a href="./mcp-arabic-ms-word"><b>mcp-arabic-ms-word</b><br/><sub>خادم MCP — أتمتة Word العربية</sub></a> | <a href="./mcp-flutter-apk-injector"><b>mcp-flutter-apk-injector</b><br/><sub>خادم MCP — تحليل تطبيقات أندرويد</sub></a> | <a href="./Aqeeda"><b>عقيدة+</b><br/><sub>تطبيق Flutter — التعليم الإسلامي</sub></a> |
+
+### مجالات الخبرة
+
+**هندسة الموجهات:** تصميم موجهات وكلاء لأنظمة Claude وGemini وCodex، وسرد أدلة الأدوات (Tool Annotation) لمعايير Tier-A.
+**معالجة اللغة العربية:** معالجة نصوص RTL، التشكيل والتوحيد، والتلاعب بملفات docx.
+**TypeScript / Node.js:** خوادم MCP، النشر على npm، الاختبار بـ Vitest.
+**تطوير التطبيقات:** Flutter وFirebase ومنصات التعليم.
+
+### تواصل معي
+
+البريد: [marwan.a.discord@gmail.com](mailto:marwan.a.discord@gmail.com) · [الموقع الشخصي](https://marwandevspace.github.io/Marwan.dev/) · [تلغرام](https://t.me/MarwanAIDev) · [إنستغرام](https://www.instagram.com/mo.os/)
 
 </div>
