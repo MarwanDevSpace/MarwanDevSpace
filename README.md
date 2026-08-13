@@ -59,7 +59,7 @@
       </p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector"><img src="./assets/logo_apk.png" alt="mcp-flutter-apk-injector" width="140"/></a>
+      <a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector"><img src="./assets/injector_apk.png" alt="mcp-flutter-apk-injector" width="140"/></a>
       <h3 align="center"><a href="https://github.com/MarwanDevSpace/mcp-flutter-apk-injector">mcp-flutter-apk-injector</a></h3>
       <p align="center"><sub>MCP Server · APK Reverse Engineering</sub></p>
       <p align="center">
